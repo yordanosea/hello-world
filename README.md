@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+HI EVERYONE!
+
+yordanos here, i like reading books and space <3
+
